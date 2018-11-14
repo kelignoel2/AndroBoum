@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroBoum</string>
+    <string name="title">The boombing Application</string>
+    <string name="author">\@Kelig NOEL - 2018</string>
+    <string name="imageprincipale">principalImage</string>
+</resources>

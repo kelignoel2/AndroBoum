@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroBoum</string>
+    <string name="title">L\'application qui fait boom !!!</string>
+    <string name="author">\@Kelig NOEL - 2018</string>
+    <string name="imageprincipale">imagePrincipale</string>
+</resources>
