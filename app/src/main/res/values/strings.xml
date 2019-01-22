@@ -3,4 +3,20 @@
     <string name="title">The boombing Application</string>
     <string name="author">\@Kelig NOEL - 2018</string>
     <string name="imageprincipale">principalImage</string>
+    <string name="buttonMain">Start</string>
+    <string name="buttonMainLand">Start</string>
+
+    <string name="facebook_application_id" translatable="false"> 1809914232370472 </string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb 1809914232370472 </string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+    <string name="emailText">Email</string>
+    <string name="desciptionimage">omageProfile</string>
+    <string name="imageUploaded">Image Uploaded</string>
+    <string name="connectStatus"></string>
+    <string name="textButtonList">See User List</string>
+    <string name="filter_dialog_title">Filter</string>
+
 </resources>
+
+

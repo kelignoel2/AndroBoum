@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="users_filter">
+        <item>Personnes connectées</item>
+        <item>Tout le monde</item>
+    </string-array>
+</resources>

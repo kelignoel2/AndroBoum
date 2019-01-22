@@ -4,4 +4,13 @@
     <string name="title">L\'application qui fait boom !!!</string>
     <string name="author">\@Kelig NOEL - 2018</string>
     <string name="imageprincipale">imagePrincipale</string>
+    <string name="buttonMainLand">Démarrer</string>
+    <string name="buttonMain">Démarrer</string>
+    <string name="action_settings">Paramêtres</string>
+    <string name="action_logout">Déconnexion</string>
+    <string name="emailText">Email</string>
+    <string name="desciptionimage">Image Profile</string>
+    <string name="imageUploaded">Image correctement envoyé au serveur</string>
+    <string name="textButtonList">Voir la liste des utilisateurs</string>
+
 </resources>
